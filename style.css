@@ -5,7 +5,7 @@
     font-family: "Poppins", sans-serif;
 }
 body{
-    height: 100vh;
+    height: 80vh;
     background: linear-gradient(#000000 50%, #ffb92a 50%);
 }
 .container{
@@ -13,6 +13,7 @@ body{
     width: 90vw;
     max-width: 37.5em;
     padding: 3em 1.8em;
+    /* margin-top: 8em; */
     background-color: #201f28;
     position: absolute;
     transform: translate(-50%, -50%);
